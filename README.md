@@ -1,7 +1,5 @@
 ## Hello world ! 
 
-![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorGarcia016&show_icons=true&theme=dark)
-
 ## Tecnologias usadas no dia a dia
 
 <div style="display: inline_block">
